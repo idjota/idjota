@@ -1,6 +1,6 @@
 # Senior Software Engineer — Scalable Systems, Frontend Architecture & AI
 
-I build and operate large-scale production systems.
+Building high-scale, revenue-critical systems
 
 Currently working at Mercado Libre on Insurtech acquisition platforms focusing on system architecture, reliability and developer productivity.
 
